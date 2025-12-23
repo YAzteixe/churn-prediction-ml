@@ -70,7 +70,7 @@ churn-prediction-ml
 ## Autora
 **Yasmin Teixeira**  
 Analista de Dados & Desenvolvedora Python  
-🔗 [GitHub](https://github.com/YAzteixe) • [LinkedIn](https://linkedin.com/in/yasminteixeirassantos)
+🔗 [GitHub](https://github.com/YAzteixe) • [LinkedIn](https://www.linkedin.com/in/yasminteixeirasantos/)
 
 ---
 
