@@ -12,6 +12,21 @@
 ![Gráficos de Análise](./churn_analysis.png)
 ![Gráficos de Análise](./churn_analysis2.png)
 
+```diff
++ 🎯 PRINCIPAIS DESCOBERTAS VISUAIS:
++ 1. Apenas 26.5% dos clientes dão churn
++ 2. Contratos mensais têm MUITO mais churn
++ 3. Clientes que saem pagam mais caro
++ 4. Clientes novos são mais propensos
+```
+
+![Dashboard de Análise](./churn_analysis.png)
+*Da esquerda para direita, topo para baixo:*
+1. 📊 **Distribuição geral** - Desbalanceamento dos dados
+2. 📝 **Contrato** - Mensal tem 3x mais churn
+3. 💰 **Valor mensal** - Quem sai paga mais
+4. ⏰ **Tempo como cliente** - Novos clientes são risco
+
 ## Resultados
 - **Acurácia**: 82% 
 - **Algoritmo**: Random Forest
