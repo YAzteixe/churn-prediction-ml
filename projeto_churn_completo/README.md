@@ -18,9 +18,7 @@
 + 2. Contratos mensais têm MUITO mais churn
 + 3. Clientes que saem pagam mais caro
 + 4. Clientes novos são mais propensos
-```
 
-![Dashboard de Análise](./churn_analysis.png)
 *Da esquerda para direita, topo para baixo:*
 1. 📊 **Distribuição geral** - Desbalanceamento dos dados
 2. 📝 **Contrato** - Mensal tem 3x mais churn
