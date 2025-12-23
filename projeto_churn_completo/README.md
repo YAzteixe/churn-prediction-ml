@@ -9,6 +9,9 @@
 
 [(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YAzteixe/churn-prediction-ml/blob/main/projeto-churn/README.md)
 
+![Gráficos de Análise](./churn_analysis.png)
+![Gráficos de Análise](./churn_analysis2.png)
+
 ## Resultados
 - **Acurácia**: 82% 
 - **Algoritmo**: Random Forest
